@@ -1,3 +1,16 @@
+![Screenshot_20250315-224802](https://github.com/user-attachments/assets/8f7aa5c0-3a1d-468a-ae87-0af6ae24410d)
+![Screenshot_20250315-224808](https://github.com/user-attachments/assets/c4e856b5-4ba9-4df8-9443-cc0a429a50c1)
+![Screenshot_20250315-224813](https://github.com/user-attachments/assets/b39899bc-97e6-4544-9c89-54b615b8da2e)
+![Screenshot_20250315-224825](https://github.com/user-attachments/assets/1d6ff455-74e8-40ee-839f-8bd857a23016)
+![Screenshot_20250315-224838](https://github.com/user-attachments/assets/c2ac864d-6de8-4107-bb1b-90769066db22)
+![Screenshot_20250315-224859](https://github.com/user-attachments/assets/a2a7cc17-0ee8-49e0-979e-19c8ae5062d6)
+![Screenshot_20250315-224914](https://github.com/user-attachments/assets/58a32ca0-c5b2-4e82-ad80-222644c6f4b0)
+![Screenshot_20250315-224924](https://github.com/user-attachments/assets/026d27dd-f166-4c11-85fd-ef01d6cec97c)
+![Screenshot_20250315-224940](https://github.com/user-attachments/assets/9ec48334-5c44-4b12-bb6e-abb0b2f3f491)
+![Screenshot_20250315-224956](https://github.com/user-attachments/assets/48f71d5e-6862-47eb-929e-835cf87f1de7)
+![Screenshot_20250315-225001](https://github.com/user-attachments/assets/450988b3-6844-4b95-94d4-71ad21d4e417)
+![Screenshot_20250315-225012](https://github.com/user-attachments/assets/c6785aa1-9e7a-4ade-b98d-53fda10c3770)
+![Screenshot_20250315-225018](https://github.com/user-attachments/assets/6c152ee7-af53-4c80-9fd4-564193287c42)
 
 # Takeaway
 This is a simple fully functional takeaway website. My first web dev project!
